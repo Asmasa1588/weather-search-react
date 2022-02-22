@@ -4,7 +4,8 @@
   padding: 60px;
   border: 1px solid #dadde1;
   border-radius: 5px;
-  background:  black;
+  background: black;
+  box-shadow: 0 0 15px 15px #07ddf5;
 }
 
 .App footer {
