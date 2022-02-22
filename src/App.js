@@ -18,13 +18,13 @@ function App() {
             open-sourced on GitHub
           </a>{" "}
           and{" "}
-          {/* <a
-            href="https://romantic-mclean-b963a4.netlify.app/"
+          <a
+            href="https://heuristic-mclean-58c10c.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
             hosted on Netlify
-          </a> */}
+          </a>
         </footer>
       </div>
     </div>
